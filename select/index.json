@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "Get Ugly",
+  "base_artist": "Jason Derulo",
+  "createdAt": "2026-01-14T02:59:51.939351Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Get Ugly",
+      "artist": "Lil Baby",
+      "has_synced": true,
+      "path": "select/01_Get_Ugly_Lil_Baby.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Let's Get Ugly",
+      "artist": "The Vaselines",
+      "has_synced": false,
+      "path": "select/02_Let's_Get_Ugly_The_Vaselines.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Get Ugly",
+      "artist": "Jason Derulo",
+      "has_synced": true,
+      "path": "select/03_Get_Ugly_Jason_Derulo.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Let's Get Ugly",
+      "artist": "Vaselines, The",
+      "has_synced": false,
+      "path": "select/04_Let's_Get_Ugly_Vaselines,_The.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Bout to Get Ugly (feat. Rhymefest & Anthony Hamilton)",
+      "artist": "Mark Ronson feat. Rhymefest & Anthony Hamilton",
+      "has_synced": true,
+      "path": "select/05_Bout_to_Get_Ugly_(feat._Rhymefest_&_Anthony_Hamilton)_Mark_Ronson_feat._Rhymefest_&_Anthony_Hamilton.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Bout To Get Ugly (Feat. Rhymefest & Anthony Hamilton)",
+      "artist": "Mark Ronson",
+      "has_synced": true,
+      "path": "select/06_Bout_To_Get_Ugly_(Feat._Rhymefest_&_Anthony_Hamilton)_Mark_Ronson.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Get Ugly",
+      "artist": "Jason Derulo",
+      "has_synced": true,
+      "path": "select/07_Get_Ugly_Jason_Derulo.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Let's Get Ugly",
+      "artist": "The Wanted",
+      "has_synced": true,
+      "path": "select/08_Let's_Get_Ugly_The_Wanted.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Bout to Get Ugly",
+      "artist": "Mark Ronson",
+      "has_synced": true,
+      "path": "select/09_Bout_to_Get_Ugly_Mark_Ronson.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Get Ugly (Westfunk Remix)",
+      "artist": "Jason Derulo",
+      "has_synced": true,
+      "path": "select/10_Get_Ugly_(Westfunk_Remix)_Jason_Derulo.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Let's Get Ugly (Live in London)",
+      "artist": "The Vaselines",
+      "has_synced": false,
+      "path": "select/11_Let's_Get_Ugly_(Live_in_London)_The_Vaselines.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Let's Get Ugly (live in London)",
+      "artist": "Vaselines, The",
+      "has_synced": false,
+      "path": "select/12_Let's_Get_Ugly_(live_in_London)_Vaselines,_The.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Get Ugly",
+      "artist": "Jason Derulo",
+      "has_synced": true,
+      "path": "select/13_Get_Ugly_Jason_Derulo.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Get Ugly",
+      "artist": "Jason Derulo",
+      "has_synced": false,
+      "path": "select/pl_01_Get_Ugly_Jason_Derulo.txt"
+    }
+  ]
+}
