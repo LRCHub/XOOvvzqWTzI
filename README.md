@@ -1,0 +1,84 @@
+# Jason Derulo – Get Ugly
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:02.97] Girl, ladies, let your hurr down (Ooh, yeah)
+[00:06.92] Let your hurr down
+[00:08.16] We's about to get down (Ooh, yeah)
+[00:25.16] 
+[00:11.50] Oh my, oh my, oh my God
+[00:13.67] This girl straight and this girl not
+[00:15.63] Tipsy off that peach Ciroc
+[00:17.76] Like la-la-la
+[00:20.16] Ching-a-lang-lang, ching-a-ling-a-lang-lang
+[00:22.21] Jeans so tight I could see loose change
+[00:24.29] Do your thang, thang, girl
+[00:25.53] Do that thang, like la-la-la
+[00:39.53] 
+[00:28.22] Tell them pretty faced girls tryna impress each other
+[00:32.47] And them undercover freaks who ain't nothin' but trouble
+[00:36.62] Baby, I'ma tell you some' only 'cause I love ya
+[00:41.23] People all around the world sexy motherfuckers
+[01:04.23] 
+[00:45.34] Get ugly
+[00:47.74] (Ooh)
+[00:49.79] (Yeah)
+[00:51.80] Get ugly, babe
+[00:53.80] Get ugly
+[00:55.66] You're too sexy to me, sexy to me
+[00:57.86] You're too sexy to me, sexy to me
+[00:59.93] So sexy
+[01:02.04] Damn, that's ugly
+[01:10.54] 
+[01:05.04] Bruh, I can't, I can't even lie
+[01:09.72] I'm about to be that guy
+[01:11.87] Someone else gon' have to drive me home
+[01:15.78] Bang-a-rang-rang, bang-a-ring-a-rang-rang
+[01:18.31] Bass in the trunk, vibrate that thang
+[01:20.64] Do your thang, thang, girl
+[01:21.80] Do that thang like
+[01:30.80] 
+[01:24.47] Tell them pretty faced girls tryna impress each other
+[01:28.56] And them undercover freaks who ain't nothin' but trouble
+[01:32.97] Baby, I'ma tell you some' only 'cause I love ya
+[01:37.37] People all around the world sexy motherfuckers
+[02:00.37] 
+[01:41.53] Get ugly
+[01:43.60] Get ugly, babe
+[01:47.93] And everybody say la-la-la
+[01:50.20] Get ugly
+[01:51.72] You're too sexy to me, sexy to me
+[01:53.93] You're too sexy to me, sexy to me
+[01:56.04] So sexy
+[01:58.44] Damn, that's ugly
+[02:06.94] 
+[02:03.31] Ayy, Ricky, haha
+[02:05.96] This beat give me that ugly face, man
+[02:08.28] Everybody (Yeah), lose control
+[02:12.36] Let's get ugly, dysfunctional
+[02:16.59] Everybody (Ayy), lose control
+[02:21.37] Let's get ugly, dysfunctional
+[02:35.87] 
+[02:25.25] Tell them pretty faced girls tryna impress each other
+[02:29.48] And them undercover freaks who ain't nothin' but trouble
+[02:33.44] Baby, I'ma tell you some' only 'cause I love ya
+[02:37.72] People all around the world sexy motherfuckers
+[03:00.72] 
+[02:42.32] Ooh
+[02:46.19] (Ooh)
+[02:47.57] Leggo, yeah
+[02:48.84] Light it up and pass that, pass that
+[02:50.86] La-la-la
+[02:52.75] Everybody, lose control (Yeah)
+[02:56.74] Let's get ugly, dysfunctional
+[03:00.10] Get ugly
+[03:02.17] (Ooh)
+[03:04.02] (Yeah)
+[03:06.38] (Ooh)
+[03:08.23] You know what I'm talkin' 'bout (Yeah)
+[03:09.58] You're too sexy to me, sexy to me
+[03:11.61] You're too sexy to me, sexy to me
+[03:13.74] So sexy
+[03:15.62] Damn, that's ugly
+```
